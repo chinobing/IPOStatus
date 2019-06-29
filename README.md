@@ -8,6 +8,8 @@
 
 [首次公开发行股票申请企业情况的数据爬取，pyecharts和表格生成（四）](http://bingwong.org/2018/08/26/106.html)
 
+# 获取数据页面已改，xlsx数据已改，停更
+
 # 效果页面
 先发一个最终效果图的网址：https://www.cnvar.cn/ipostatus/(已删)
 
